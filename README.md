@@ -1,5 +1,12 @@
 # TF_SAP250026 - Entity Framework Core : Approche DB-First
 
+![.NET](https://img.shields.io/badge/.NET-10.0-512BD4?style=flat&logo=dotnet)
+![Entity Framework Core](https://img.shields.io/badge/EF%20Core-10.0.2-512BD4?style=flat&logo=.net)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-LocalDB-CC2927?style=flat&logo=microsoftsqlserver)
+![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat)
+![Language](https://img.shields.io/badge/Language-C%23-239120?style=flat&logo=csharp)
+![Approach](https://img.shields.io/badge/Approach-Database--First-blueviolet?style=flat)
+
 ## 📋 Description
 
 Ce projet pédagogique est destiné à l'apprentissage d'**Entity Framework Core** avec l'**approche Database-First (DB-First)**. Il fait partie de la formation "Devenir Développeur" dispensée à Technofutur TIC.
