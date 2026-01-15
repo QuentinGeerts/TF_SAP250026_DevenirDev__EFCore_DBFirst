@@ -30,6 +30,7 @@ Console.WriteLine("Démonstration EFCore");
 // Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=DemoADO;Integrated Security=True;Encrypt=True;Trust Server Certificate=True
 
 // 4. Dans la console des packages nuget
+// Scaffold-DbContext : commande pour générer le contexte et les entités à partir de la base de données existante
 // NuGet: Scaffold-DbContext "Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=DemoADO;Integrated Security=True;Encrypt=True;Trust Server Certificate=True" Microsoft.EntityFrameworkCore.SqlServer -ContextDir Data -OutputDir Models
 
 
