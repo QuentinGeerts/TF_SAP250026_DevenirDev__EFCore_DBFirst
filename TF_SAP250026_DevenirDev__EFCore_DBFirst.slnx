@@ -2,5 +2,6 @@
   <Folder Name="/Exercices/">
     <Project Path="ExerciceDbFirst/ExerciceDbFirst.csproj" />
   </Folder>
+  <Project Path="DemoEFCodeFirst/DemoEFCodeFirst.csproj" />
   <Project Path="DemoEFDbFirst/DemoEFDbFirst.csproj" />
 </Solution>
